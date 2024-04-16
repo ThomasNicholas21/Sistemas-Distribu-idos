@@ -1,0 +1,3 @@
+grant codeBase "C:\Users\Totom\Downloads\rmi-main\RMI-SDTestes\bin\servico" {
+    permission java.security.AllPermission;
+};
